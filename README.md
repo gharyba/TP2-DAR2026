@@ -27,3 +27,7 @@ java -cp bin/activite_2_1 Client
 ```
 
 Pour l'activité 2-2, remplacer `bin/activite_2_1` par `bin/activite_2_2`. Les deux serveurs utilisent le port `5000` ; en lancer un seul à la fois.
+
+## Capture
+
+![Calculs de l'activité 2-1](image.png)
